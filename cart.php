@@ -18,7 +18,7 @@ check_message();
                          <table  class="table table-condensed" id="table" >
                          <thead> 
                           <tr class="cart_menu"> 
-                             <td  >Product</td>
+                             <td  >Produit</td>
                              <td >Description</td>
                              <td  width="15%" >Price</td>
                              <td  width="15%" >Quantity</td> 

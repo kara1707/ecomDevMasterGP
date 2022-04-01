@@ -1,3 +1,3 @@
 From nginx
-COPY . / PROJETJENKINSMASTER
+COPY teste.html /usr/share/nginx/html
 EXPOSE 80
